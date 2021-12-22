@@ -1,0 +1,43 @@
+|
+p{
+    padding: 0;
+    margin: 0;
+    color: #fff;
+}
+/*con el punto al inicio es para hacer distincion de elementos, en este calse con el punto es 
+selector de clases en
+*/
+.img_circle{
+    border:3px solid white;
+    border-radius: 50%;
+}
+.section {
+    background-color: #fff; 
+    padding: 15px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+
+}
+#header {
+    background-image: url("https://metode.es/wp-content/uploads/2015/02/IC1805_full.jpg");
+    background-size: cover;
+}
+#header img {
+    display: block;
+    width: 80px;
+    height: 80px;
+    margin: auto;
+}
+#header p {
+    font-size: 25pt;
+    color: #fff;
+    padding-top: 5px;
+    margin: 0;
+    font-weight: bold;
+    text-align: center;
+}
+.quote {
+    font-size: 12pt;
+    text-align: right;
+    margin-top: 10px;
+}

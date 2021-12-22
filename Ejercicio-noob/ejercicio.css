@@ -1,0 +1,32 @@
+html{
+    margin:0;
+    padding: auto;
+    
+    }
+    body{
+        background-color:  #2b8353;
+
+    }
+    h1{
+        font-family: 'Times New Roman', Times, serif;
+
+    }
+    #cursiva{
+
+        font-style: italic;
+    }
+    #amarillo{
+        color: aliceblue;
+
+    }
+    #obli{
+
+        color: yellow;
+        font-style: oblique;
+        
+    }
+    #grande{
+
+        color: violet;
+        font-size: 50px;
+    }

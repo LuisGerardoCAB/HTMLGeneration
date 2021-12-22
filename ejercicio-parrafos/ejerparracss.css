@@ -1,0 +1,49 @@
+body{
+    background-color: royalblue;
+}
+
+h1{
+    text-align: right;
+
+}
+#primer-p{
+    margin-left: 25px;
+    color: red;
+    font-family: Comic sans-serif;
+}
+#origen{
+
+    font-size: 25px;
+    font-weight: bold;
+}
+#segundo-p{
+
+    background-color: azure;
+    color: saddlebrown;
+}
+#difusion{
+
+    font-size: 25px;
+    font-weight: bold;
+
+}
+#tercer-p{
+    background-color: azure;
+    color: saddlebrown;
+}
+#cuarto-p{
+
+}
+footer{
+    text-align: center;
+    font-style: italic;
+
+}
+#titulo{
+    color: red;
+
+}
+#segundoparrado{
+    margin-left: 25px;
+
+}

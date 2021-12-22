@@ -1,0 +1,42 @@
+body{
+    background-color: yellow;
+}
+.primerp{
+    border: 5px solid brown;
+    border-bottom-right-radius: 15px;
+    border-top-right-radius: 15px;
+    background-color: white;
+    text-align: center;
+    margin-left: 365px;
+    margin-right: 365px;
+    margin-bottom: 50px;
+}
+.segundop{
+    border: 5px dotted brown;
+    border-radius: 15px;
+    background-color: white;
+    text-align: center;
+    
+    margin-right: 665px;
+    margin-bottom: 50px;
+
+}
+.tercerp{
+    border: 5px dashed brown;
+    border-bottom-left-radius: 15px;
+    border-top-left-radius: 15px;
+    background-color: royalblue;
+    text-align: center;
+    
+    margin-left: 665px;
+    margin-bottom: 50px;
+
+}
+.text {
+    color: #FFF;
+    
+    text-align: center;
+    font-weight: 700;
+    font: italic bold 100px Georgia, Serif;
+    text-shadow: -4px 3px 0 #34d16e;
+  }
